@@ -1,11 +1,12 @@
 {
-  "name": "NWU Tech Trends Telemetry Portal-User Acceptance Testing",
-  "projectId": "3337d8ca-0078-46fd-a6c7-1643574ab32f",
+  "name": "Tech Trends Telemetry Portal-User Acceptance Testing",
+  "projectId": "dbc2a633-8c72-4e3c-9dc9-0eb198e3a754",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.0-preview]",
     "UiPath.Mail.Activities": "[1.23.11]",
+    "UiPath.MicrosoftOffice365.Activities": "[2.6.25]",
     "UiPath.System.Activities": "[24.11.0-preview]",
     "UiPath.Testing.Activities": "[24.10.0]",
     "UiPath.UIAutomation.Activities": "[24.11.1-preview]"
@@ -50,7 +51,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "0ea02f55-b32b-4511-b657-9851c4caec7d",
+      "uniqueId": "d16ba0e4-1b39-41c9-bf40-fa8a8651c4dc",
       "input": [],
       "output": []
     }
