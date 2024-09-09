@@ -39,4 +39,13 @@ Example of report structure
 
 
 ## Referencing
+- (2023) YouTube. Available at: https://youtu.be/I9jfN-ASoaw (Accessed: 03 September 2024).
+- (2023) YouTube. Available at: https://youtu.be/-mzKJIlHaHg (Accessed: 03 September 2024).
+- (2023) YouTube. Available at: https://www.youtube.com/watch?v=6Grx5Z5ybEc&pp=ygU_aG93IHRvIGhvc3RlZCB0aGUgcHJvY2VzcyBvbiB0aGUgVWlQYXRoIE9yY2hlc3RyYXRvcj8gZmlzdCB0aW1l (Accessed: 02 September 2024).
+- 
+- Avinash.wankhede (2023) Read excel file, UiPath Community Forum. Available at: https://forum.uipath.com/t/read-excel-file/631315 (Accessed: 09 September 2024).
+- (2022) Google search. Available at: https://www.google.com/search?q=how%2Bto%2Bread%2Ban%2Bexcelto%2Buipath&oq=how%2Bto%2Bread%2Ban%2Bexcelto%2Buipath&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTE1NTg2ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8# (Accessed: 09 September 2024). 
+
+- Avinash.wankhede (2023) Read excel file, UiPath Community Forum. Available at: https://forum.uipath.com/t/read-excel-file/631315 (Accessed: 06 September 2024).
+- 
 
